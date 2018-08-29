@@ -1,0 +1,7 @@
+Django
+django-cors-headers
+djangorestframework
+psycopg2
+psycopg2-binary
+django-heroku
+gunicorn
